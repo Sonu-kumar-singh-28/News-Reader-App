@@ -7,7 +7,12 @@
     <fragment
         android:id="@+id/articlesFragment"
         android:name="com.ssu.portfolio.newsreaderapp.ui.Fragements.ArticlesFragment"
-        android:label="ArticlesFragment" />
+        android:label="ArticlesFragment">
+        <argument
+            android:name="article"
+            app:argType="com.ssu.portfolio.newsreaderapp.models.Article"
+            />
+    </fragment>
     <fragment
         android:id="@+id/favoritesFragment"
         android:name="com.ssu.portfolio.newsreaderapp.ui.Fragements.FavoritesFragment"
