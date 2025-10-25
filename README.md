@@ -92,7 +92,7 @@ Open a Pull Request for review.
 
 📧 Contact
 
-Sonu Kumar Singh
+👤 Sonu Kumar Singh
 📩 Email: sonusinghsengar28@gmail.com
 
 🔗 Project Link: https://github.com/Sonu-Kumar-Singh-28/News-Reader-App
