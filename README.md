@@ -9,17 +9,11 @@ Stay updated with the latest happenings using a powerful, intuitive interface:
 
 Real-Time News Updates: Fetches the latest and trending news from trusted sources using REST APIs and Retrofit.
 
-{:target="_blank"}
-
 Category-Based News: Explore stories from categories like Technology, Sports, Health, Business, and Entertainment.
-
-{:target="_blank"}
 
 Offline Reading (Room Database): Save your favorite articles for later and read them even without an internet connection.
 
 Search Functionality: Quickly find specific articles or topics using coroutine-based API search.
-
-{:target="_blank"}
 
 Firebase Authentication:
 
@@ -28,10 +22,6 @@ Register: Create a new account with your email and password.
 Login: Securely sign in with Firebase Auth.
 
 Bookmark Sync: Your saved articles stay linked with your account.
-
-{:target="_blank"}
-
-{:target="_blank"}
 
 Modern Navigation: Powered by the Jetpack Navigation Component (Nav Graph) for a smooth, multi-screen flow.
 
