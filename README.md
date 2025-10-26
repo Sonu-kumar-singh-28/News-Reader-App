@@ -4,7 +4,7 @@ A modern Android application delivering breaking news, trending headlines, and p
 
 ✨ Key Features
 
-Real-Time News Updates: Fetch trending news from trusted sources using Retrofit + Coroutines.
+Real-Time News Updates: Fetch trending news from trusted sources using Retrofit + Coroutines
 
 Category-Based News: Explore stories in Technology, Sports, Health, Business, and Entertainment.
 
