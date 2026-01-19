@@ -1,4 +1,4 @@
-🗞️ News Reader App
+🗞️ News Reader App.
 
 A modern Android application delivering breaking news, trending headlines, and personalized stories — all in one place. Built with a clean MVVM architecture for seamless data handling, efficient performance, and a delightful reading experience.
 
